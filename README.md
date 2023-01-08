@@ -2,6 +2,6 @@
 Omar
 is
 a
-awesome
-boy
+"fantastic"
+guy
 
