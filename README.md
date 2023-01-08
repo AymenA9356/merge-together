@@ -1,5 +1,5 @@
 # merge-together
-Omar
+sam
 is
 a
 "fantastic"
