@@ -1,6 +1,6 @@
 # merge-together
 aymen
-is
+that
 a
 awesome
 boy
